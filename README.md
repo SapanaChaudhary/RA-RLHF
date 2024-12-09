@@ -2,7 +2,7 @@
 
 Here is the [Openreview](https://openreview.net/forum?id=1BZKqZphsW) link for the paper. 
 
-This code is based on the huggngface trl github repository  [trl](https://github.com/huggingface/trl)
+This code is based on the huggngface trl github repository  [trl](https://github.com/huggingface/trl). Trained model checkpoints will be added shortly. 
 
 Please follow the setup instructions as mentioned in the trl repository.
 
