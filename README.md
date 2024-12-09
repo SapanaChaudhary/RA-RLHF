@@ -1,8 +1,10 @@
-## **Risk Averse RLHF for fine tuning LLMs**
+## **Code for Neurips 2024 paper 'Risk Averse fine tuning of LLMs'**
+
+Here is the [Openreview](https://openreview.net/forum?id=1BZKqZphsW) link for the paper. 
 
 This code is based on the huggngface trl github repository  [trl](https://github.com/huggingface/trl)
 
-Follow the setup instructions as mentioned in the trl repository
+Please follow the setup instructions as mentioned in the trl repository.
 
 To run the experiments, execute the following commands, 
 
