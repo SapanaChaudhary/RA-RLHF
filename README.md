@@ -1,4 +1,4 @@
-## **Code for Neurips 2024 paper '[Risk Averse fine tuning of LLMs](https://arxiv.org/pdf/2501.06911v1)'**
+## **Code for our Neurips 2024 paper titled '[Risk Averse fine tuning of LLMs](https://arxiv.org/pdf/2501.06911v1)'**
 
 This code is based on the huggngface trl github repository  [trl](https://github.com/huggingface/trl). Trained model checkpoints will be added shortly. 
 
