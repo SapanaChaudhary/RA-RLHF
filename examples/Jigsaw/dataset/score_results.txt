@@ -1,0 +1,16 @@
+gpt2 r mean and std: 4.088 0.0
+sft r mean and std: 4.293 0.0
+rlhf r mean and std: 5.296 0.065
+ra rlhf r mean and std: 5.515 0.076
+
+tail = -2.5
+gpt2 tail mean and std: -3.64 0.0
+sft tail mean and std: -3.482 0.0
+rlhf tail mean and std: -2.8 0.176
+ra rlhf tail mean and std: -2.598 0.212
+
+tail = +5
+gpt2 tail mean and std: 0.317 0.0
+sft tail mean and std: 0.442 0.0
+rlhf tail mean and std: 1.775 0.137
+ra rlhf tail mean and std: 2.139 0.183

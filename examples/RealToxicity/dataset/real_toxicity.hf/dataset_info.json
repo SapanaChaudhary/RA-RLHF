@@ -1,0 +1,50 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "real-toxicity-prompts",
+  "dataset_size": 33367121,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/allenai/real-toxicity-prompts@f21629712ffd6a3d13a54fd2807ccd521c55ef74/prompts.jsonl": {
+      "num_bytes": 67690996,
+      "checksum": null
+    }
+  },
+  "download_size": 67690996,
+  "features": {
+    "Prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Continuation": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Label": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "Perspective": {
+      "dtype": "float64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 101058117,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 33367121,
+      "num_examples": 99442,
+      "dataset_name": "real-toxicity-prompts"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
