@@ -1,5 +1,6 @@
-## **Code for our Neurips 2024 paper titled '[Risk Averse fine tuning of LLMs](https://arxiv.org/pdf/2501.06911v1)'**
+## **RA-RLHF: Risk Averse Finetuning of Large Language Models**
 
+The repository contains the code for our Neurips 2024 paper titled '[Risk Averse fine tuning of LLMs](https://arxiv.org/pdf/2501.06911v1)'
 This code is based on the huggngface trl github repository  [trl](https://github.com/huggingface/trl). Trained model checkpoints will be added shortly. 
 
 Please follow the setup instructions as mentioned in the trl repository.
